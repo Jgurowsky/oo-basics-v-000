@@ -41,4 +41,5 @@ class Shoe
 
   def cobble
     puts "Repaired"
+  end
 end
