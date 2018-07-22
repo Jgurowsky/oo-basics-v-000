@@ -22,4 +22,12 @@ class Shoe
   def size
     @size
   end
+
+  def material=(mat)
+    @mat = mat
+  end
+
+  def material
+    @mat
+  end
 end
